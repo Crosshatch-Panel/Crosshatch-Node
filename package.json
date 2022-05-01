@@ -1,0 +1,23 @@
+{
+  "name": "crosshatch-node",
+  "version": "0.0.1",
+  "author": "",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "chalk": "4.1.2",
+    "cors": "^2.8.5",
+    "dockerode": "^3.3.1",
+    "express": "^4.17.2",
+    "express-ws": "^5.0.2",
+    "figlet": "^1.5.2"
+  },
+  "homepage": "https://github.com/JamieGrimwood/Crosshatch#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamieGrimwood/Crosshatch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JamieGrimwood/Crosshatch/issues"
+  }
+}

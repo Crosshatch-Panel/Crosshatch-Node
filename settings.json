@@ -1,0 +1,5 @@
+{
+    "port": "2000",
+    "password": "password",
+    "frontend_url": "http://localhost:7070"
+}
